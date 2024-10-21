@@ -1,0 +1,12 @@
+{
+    "description": "Show what I develope",
+    "repo": "https://github.com/WinniePatGithub/is-a.dev",
+    "owner": {
+        "username": "WinniePatGithub",
+        "email": "wc92226@gmail.com",
+        "twitter": "-"
+    },
+    "record": {
+        "CNAME": "winniepatgithub.github.io"
+    }
+} 
